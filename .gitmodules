@@ -1,0 +1,3 @@
+[submodule "pyG5"]
+	path = pyG5
+	url = https://github.com/blauret/pyG5.git
